@@ -1,6 +1,6 @@
 # Customer Churn Analysis in Broadband Services
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Project Overview
 
